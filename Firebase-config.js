@@ -4,12 +4,12 @@ import { getFirestore } from "firebase/firestore"
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCAXyHiU7vdZJ9HBq8bHPHwxR0Ygbn1ypQ",
-  authDomain: "registro-de-caixa.firebaseapp.com",
-  projectId: "registro-de-caixa",
-  storageBucket: "registro-de-caixa.appspot.com",
-  messagingSenderId: "240535073752",
-  appId: "1:240535073752:web:057bc8b99cb21c3989f8ad"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 const app = initializeApp(firebaseConfig);
